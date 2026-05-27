@@ -2,7 +2,7 @@
 Trabalho da segunda unidade.
 
 SISTEMA SIMPLES DE CONTROLE DE VENDAS
-
+---
 
 1 EQUIPE DO PROJETO
   Mateus de Jesus Gonçalves
