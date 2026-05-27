@@ -5,7 +5,7 @@ SISTEMA SIMPLES DE CONTROLE DE VENDAS
 ---
 
 1 EQUIPE DO PROJETO
-  Mateus de Jesus Gonçalves
+  Mateus de Jesus Gonçalves<br>
   Riquelme de Freitas Silva
 
 
