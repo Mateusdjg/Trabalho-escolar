@@ -3,7 +3,7 @@ Trabalho da segunda unidade.
 
 SISTEMA SIMPLES DE CONTROLE DE VENDAS
 ---
-
+<p align="justify">
 ### 1. EQUIPE DO PROJETO<br>
  - Mateus de Jesus Gonçalves<br>
  - Riquelme de Freitas Silva
@@ -39,4 +39,4 @@ O que o sistema deve fazer:
     - **Saída:** quando se registra a compra de materiais (tecidos, linhas, etc.), o valor gasto é descontado do caixa.
     - **Saldo atual:** o sistema exibe sempre o valor atualizado do caixa.
 
-
+</p>
