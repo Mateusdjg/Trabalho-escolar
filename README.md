@@ -3,16 +3,16 @@ Trabalho da segunda unidade.
 
 SISTEMA SIMPLES DE CONTROLE DE VENDAS
 ---
-<p align="justify">
+
 ### 1. EQUIPE DO PROJETO<br>
  - Mateus de Jesus Gonçalves<br>
  - Riquelme de Freitas Silva
-
 ---
 ### 2. INTRODUÇÃO
+<p align="justify">
 
 O trabalho consiste em um sistema simples de controle de vendas criado para atender minha mãe que fabrica e vende produtos têxteis. Minha mãe produz e vende os seguintes produtos: Fronhas, Panos de Prato, Almofadas, Cobertas, Toalhas e Capas de sofá. Ela trabalha apenas nas segundas-feiras e domingos e sentia dificuldades em acompanhar seus lucros e estoque de forma organizada e rápida.<br>
-O objetivo do sistema é oferecer uma ferramenta simples e acessível, onde minha mãe consiga registrar suas vendas, controlar o estoque de produto e gerenciar o caixa e seu lucro mensal, de uma forma fácil e rápida.
+O objetivo do sistema é oferecer uma ferramenta simples e acessível, onde minha mãe consiga registrar suas vendas, controlar o estoque de produto e gerenciar o caixa e seu lucro mensal, de uma forma fácil e rápida.</p>
 
 
 ---
@@ -39,4 +39,4 @@ O que o sistema deve fazer:
     - **Saída:** quando se registra a compra de materiais (tecidos, linhas, etc.), o valor gasto é descontado do caixa.
     - **Saldo atual:** o sistema exibe sempre o valor atualizado do caixa.
 
-</p>
+
