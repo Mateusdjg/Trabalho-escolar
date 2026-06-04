@@ -30,4 +30,4 @@ O sistema de controle de vendas é uma página web desenvolvida com as seguintes
 
 ---
 ### 4. REQUISITOS DO SISTEMA
-#### 4.1 Requisitos Funcionais
+####     4.1 Requisitos Funcionais
