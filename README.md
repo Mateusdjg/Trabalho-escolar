@@ -30,4 +30,7 @@ O sistema de controle de vendas é uma página web desenvolvida com as seguintes
 
 ---
 ### 4. REQUISITOS DO SISTEMA
-####     4.1 Requisitos Funcionais
+#### 4.1 Requisitos Funcionais
+O que o sistema deve fazer:
+ - **Cadastro de produtos:** O sistema deve permitir cadastrar um produto informando nome e preço. Não é permitido cadastrar dois produtos com o mesmo nome. O usuário pode editar ou excluir um produto já cadastrado.
+
