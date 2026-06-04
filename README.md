@@ -11,7 +11,7 @@ SISTEMA SIMPLES DE CONTROLE DE VENDAS
 ---
 ### 2. INTRODUÇÃO
 
-O trabalho consiste em um sistema simples de controle de vendas criado para atender minha mãe que fabrica e vende produtos têxteis. Minha mãe produz e vende os seguintes produtos: Fronhas, Panos de Prato, Almofadas, Cobertas, Toalhas, Capas de sofá. Ela trabalha apenas nas segundas-feiras e domingos e sentia dificuldades em acompanhar seus lucros e estoque de forma organizada e rápida.
+O trabalho consiste em um sistema simples de controle de vendas criado para atender minha mãe que fabrica e vende produtos têxteis. Minha mãe produz e vende os seguintes produtos: Fronhas, Panos de Prato, Almofadas, Cobertas, Toalhas e Capas de sofá. Ela trabalha apenas nas segundas-feiras e domingos e sentia dificuldades em acompanhar seus lucros e estoque de forma organizada e rápida.
 O objetivo do sistema é oferecer uma ferramenta simples e acessível, onde minha mãe consiga registrar suas vendas, controlar o estoque de produto e gerenciar o caixa e seu lucro mensal, de uma forma fácil e rápida.
 
 
