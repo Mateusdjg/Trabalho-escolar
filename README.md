@@ -9,10 +9,11 @@ SISTEMA SIMPLES DE CONTROLE DE VENDAS
  - Riquelme de Freitas Silva
 ---
 ### 2. INTRODUÇÃO
-<p align="justify">
 
-O trabalho consiste em um sistema simples de controle de vendas criado para atender minha mãe que fabrica e vende produtos têxteis. Minha mãe produz e vende os seguintes produtos: Fronhas, Panos de Prato, Almofadas, Cobertas, Toalhas e Capas de sofá. Ela trabalha apenas nas segundas-feiras e domingos e sentia dificuldades em acompanhar seus lucros e estoque de forma organizada e rápida.<br>
-O objetivo do sistema é oferecer uma ferramenta simples e acessível, onde minha mãe consiga registrar suas vendas, controlar o estoque de produto e gerenciar o caixa e seu lucro mensal, de uma forma fácil e rápida.</p>
+
+O trabalho consiste em um sistema simples de controle de vendas criado para atender minha mãe que fabrica e vende produtos têxteis. Minha mãe produz e vende os seguintes produtos: Fronhas, Panos de Prato, Almofadas, Cobertas, Toalhas e Capas de sofá. Ela trabalha apenas nas segundas-feiras e domingos e sentia
+dificuldades em acompanhar seus lucros e estoque de forma organizada e rápida.<br>
+O objetivo do sistema é oferecer uma ferramenta simples e acessível, onde minha mãe consiga registrar suas vendas, controlar o estoque de produto e gerenciar o caixa e seu lucro mensal, de uma forma fácil e rápida.
 
 
 ---
@@ -38,5 +39,11 @@ O que o sistema deve fazer:
     - **Entrada:** quando uma venda é finalizada, o valor total da venda é somado ao caixa.
     - **Saída:** quando se registra a compra de materiais (tecidos, linhas, etc.), o valor gasto é descontado do caixa.
     - **Saldo atual:** o sistema exibe sempre o valor atualizado do caixa.
+ - **Registro de compra de materiais:** A mãe pode registrar os gastos com materiais usados na fabricação, informando o tipo de material e o valor. Esses registros servem para contabilizar os custos e calcular o lucro real.
+- **Lucro do mês:** O sistema calcula e exibe automaticamente o lucro mensal, que é a diferença entre o total recebido com vendas no mês e o total gasto com materiais no mesmo período.
 
-
+#### 4.2 Requisitos Não Funcionais
+Qualidade de sistemas:
+- **Usabilidade:** A interface deve ser simples e intuitiva, permitindo que uma pessoa sem experiência com computadores consiga usar o sistema sem treinamento.
+- **Desempenho:** As operações de venda e atualização do caixa devem ser executadas em menos de 1 segundo.
+- **Privacidade:** O sistema é de uso exclusivo da proprietária, não exigindo login ou senha, pois roda localmente no navegador.
