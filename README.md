@@ -21,7 +21,7 @@ O objetivo do sistema é oferecer uma ferramenta simples e acessível, onde minh
 
 O sistema de controle de vendas é uma página web desenvolvida com as seguintes tecnologias HTML, CSS, TypeScript e JavaScript. Ele foi projetado para apenas a proprietária usar. Principais funcionalidades:
  - Cadastro dos produtos vendidos com nome e preço
- - Controle de estoque 
+ -  de estoque 
  - Sistema de caixa com entrada 
  - Saída e saldo atual
  - Registro de compra de materiais utilizado na fabricação dos produtos 
