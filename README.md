@@ -35,8 +35,8 @@ O que o sistema deve fazer:
  - **Cadastro de produtos:** O sistema deve permitir cadastrar um produto informando nome e preço. Não é permitido cadastrar dois produtos com o mesmo nome. O usuário pode editar ou excluir um produto já cadastrado.
  - **Controle de estoque:** Cada produto possui uma quantidade em estoque. Toda vez que uma venda é registrada, o sistema automaticamente reduz a quantidade vendida do estoque. Se um produto estiver sem estoque, o sistema exibe um aviso e não permite concluir a venda.
  - **Sistema de caixa:** O caixa representa o dinheiro disponível no momento. Ele funciona com três operações:
-  --- **Entrada:** quando uma venda é finalizada, o valor total da venda é somado ao caixa.
-  --- **Saída:** quando se registra a compra de materiais (tecidos, linhas, etc.), o valor gasto é descontado do caixa.
-  --- **Saldo atual:** o sistema exibe sempre o valor atualizado do caixa.
+    - **Entrada:** quando uma venda é finalizada, o valor total da venda é somado ao caixa.
+    - **Saída:** quando se registra a compra de materiais (tecidos, linhas, etc.), o valor gasto é descontado do caixa.
+    - **Saldo atual:** o sistema exibe sempre o valor atualizado do caixa.
 
 
