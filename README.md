@@ -43,7 +43,7 @@ O que o sistema deve fazer:
 - **Lucro do mês:** O sistema calcula e exibe automaticamente o lucro mensal, que é a diferença entre o total recebido com vendas no mês e o total gasto com materiais no mesmo período.
 
 #### 4.2 Requisitos Não Funcionais
-Qualidade do sistemas:
+Qualidades do sistema:
 - **Usabilidade:** A interface deve ser simples e intuitiva, permitindo que uma pessoa sem experiência com computadores consiga usar o sistema sem treinamento.
 - **Desempenho:** As operações de venda e atualização do caixa devem ser executadas em menos de 1 segundo.
 - **Privacidade:** O sistema é de uso exclusivo da proprietária, não exigindo login ou senha, pois roda localmente no navegador.
