@@ -4,7 +4,7 @@ Trabalho da segunda unidade.
 SISTEMA SIMPLES DE CONTROLE DE VENDAS
 ---
 
-## 1 EQUIPE DO PROJETO<br>
+### 1 EQUIPE DO PROJETO<br>
   Mateus de Jesus Gonçalves<br>
   Riquelme de Freitas Silva
 
