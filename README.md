@@ -45,5 +45,5 @@ O que o sistema deve fazer:
 #### 4.2 Requisitos Não Funcionais
 Qualidades do sistema:
 - **Usabilidade:** A interface deve ser simples e intuitiva, permitindo que uma pessoa sem experiência com computadores consiga usar o sistema sem treinamento.
-- **Desempenho:** As operações de venda e atualização do caixa devem ser executadas em menos de 1 segundo.
+- **Desempenho:** As operações de venda e atualização do caixa devem ocorrer imediatamente após a ação do usuário.
 - **Privacidade:** O sistema é de uso exclusivo da proprietária, não exigindo login ou senha, pois roda localmente no navegador.
