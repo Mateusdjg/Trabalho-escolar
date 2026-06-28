@@ -1,0 +1,24 @@
+{
+  "name": "trabalho-escolar",
+  "version": "1.0.0",
+  "description": "Trabalho da segunda unidade.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Mateusdjg/Trabalho-escolar.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Mateusdjg/Trabalho-escolar/issues"
+  },
+  "homepage": "https://github.com/Mateusdjg/Trabalho-escolar#readme",
+  "devDependencies": {
+    "typescript": "^6.0.3"
+  }
+}
