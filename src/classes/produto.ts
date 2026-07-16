@@ -1,11 +1,4 @@
-export class Produto {
-    nome:string
-    preco:number
-    quantidade:number
-
-    constructor(nome:string, preco:number, quantidade:number){
-        this.nome = nome
-        this.preco = preco
-        this.quantidade = quantidade
-    }
+import { Itens } from "./itens"
+export class Produto extends Itens {
+   
 }
