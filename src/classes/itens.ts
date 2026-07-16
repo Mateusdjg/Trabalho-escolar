@@ -1,13 +1,29 @@
 export abstract class Itens {
-    private _id:number
-    private _nome:string
-    quantidade:number
 
-    constructor(nome:string, quantidade:number, id:number){
-        this._id = id
-        this._nome = nome
-        this.quantidade = quantidade
-    }
-
-    abstract atualizarEstoque():void
 }
+// Class PAI Itens:
+// 	= ATRIBUTOS
+// 		- Preço
+// 		- Nome
+// 		- Quantidade
+// 	= MÉTODOS
+// 		- alterarNome
+// 		- alterarPreco
+// 		- adicionar
+// 		- remover
+// Class FILHA Produtos:
+// 	= ATRIBUTO
+// 		-Id
+// Class FILHA Materias:
+
+// Venda:
+// 	= ATRIBUTO
+// 		- 
+
+// Caixa:
+// 	= ATRIBUTO
+// 		- Saldo
+// 	= MÉTODOS
+// 		- RegistrarVendas
+// 		- RegistraDespesa
+// 		- CalcularSaldo
