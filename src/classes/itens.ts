@@ -1,4 +1,4 @@
-export abstract class Iten {
+export abstract class Item {
     private _nome: string
     private _preco: number
     private _quantidade: number

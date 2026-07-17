@@ -1,5 +1,6 @@
-import { Iten } from "./itens"
-export class Material extends Iten {
+import { Item } from "./itens.js"
+
+export class Material extends Item {
     private _tipo: string
 
     constructor(nome: string, preco: number, quantidade: number, tipo: string) {
